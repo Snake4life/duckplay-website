@@ -1,0 +1,1 @@
+docker build -t snake4life/duckplay-website .
